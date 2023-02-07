@@ -1,0 +1,16 @@
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase_Matrices\Clase_Matrices\bin\Debug\Clase_Matrices.exe.config
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase_Matrices\Clase_Matrices\bin\Debug\Clase_Matrices.exe
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase_Matrices\Clase_Matrices\bin\Debug\Clase_Matrices.pdb
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase_Matrices\Clase_Matrices\obj\Debug\Clase_Matrices.csproj.AssemblyReference.cache
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase_Matrices\Clase_Matrices\obj\Debug\Clase_Matrices.csproj.SuggestedBindingRedirects.cache
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase_Matrices\Clase_Matrices\obj\Debug\Clase_Matrices.csproj.CoreCompileInputs.cache
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase_Matrices\Clase_Matrices\obj\Debug\Clase_Matrices.exe
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase_Matrices\Clase_Matrices\obj\Debug\Clase_Matrices.pdb
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Ejersicios de clase\Clase_Matrices\Clase_Matrices\bin\Debug\Clase_Matrices.exe.config
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Ejersicios de clase\Clase_Matrices\Clase_Matrices\bin\Debug\Clase_Matrices.exe
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Ejersicios de clase\Clase_Matrices\Clase_Matrices\bin\Debug\Clase_Matrices.pdb
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Ejersicios de clase\Clase_Matrices\Clase_Matrices\obj\Debug\Clase_Matrices.csproj.AssemblyReference.cache
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Ejersicios de clase\Clase_Matrices\Clase_Matrices\obj\Debug\Clase_Matrices.csproj.SuggestedBindingRedirects.cache
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Ejersicios de clase\Clase_Matrices\Clase_Matrices\obj\Debug\Clase_Matrices.csproj.CoreCompileInputs.cache
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Ejersicios de clase\Clase_Matrices\Clase_Matrices\obj\Debug\Clase_Matrices.exe
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Ejersicios de clase\Clase_Matrices\Clase_Matrices\obj\Debug\Clase_Matrices.pdb
